@@ -6,6 +6,7 @@
 ---
 ###終わり
 
+###終わり２
 git status
 
 git add xxxxx
